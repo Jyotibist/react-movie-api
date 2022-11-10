@@ -1,0 +1,16 @@
+.wrapper {
+  background: black;
+  color: goldenrod;
+  min-height: 100vh;
+}
+
+.card-1 i {
+  cursor: pointer;
+  display: none;
+}
+
+.card-1:hover i {
+  display: inline-block;
+  zoom: 200%;
+  color: red;
+}
